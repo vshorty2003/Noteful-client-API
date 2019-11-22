@@ -1,0 +1,19 @@
+.sidebar {
+	position: fixed;
+	top: 100px;
+}
+
+.folder-highlight {
+	background-color: #add8e6;
+}
+
+.add-folder-button {
+	margin: 10px;
+}
+
+.folderdisplay {
+	margin: 10px;
+	margin-bottom: 20px;
+}
+
+

@@ -1,0 +1,13 @@
+header {
+	background-color: gray;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	text-align: center;
+
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+}
